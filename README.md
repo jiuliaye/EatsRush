@@ -45,11 +45,11 @@ Nginx是一个服务器，主要用来作为Http服务器，部署静态资源�
 
 **Spring：** 统一管理项目中的各种资源(bean), 在web开发的各层中都会用到。
 
-**SpringMVC：**SpringMVC是spring框架的一个模块，springmvc和spring无需通过中间整合层进行整合，可以无缝集成。
+**SpringMVC：** SpringMVC是spring框架的一个模块，springmvc和spring无需通过中间整合层进行整合，可以无缝集成。
 
 **SpringSession：** 主要解决在集群环境下的Session共享问题。
 
-**lombok：**能以简单的注解形式来简化java代码，提高开发人员的开发效率。例如开发中经常需要写的javabean，都需要花时间去添加相应的getter/setter，也许还要去写构造器、equals等方法。
+**lombok：** 能以简单的注解形式来简化java代码，提高开发人员的开发效率。例如开发中经常需要写的javabean，都需要花时间去添加相应的getter/setter，也许还要去写构造器、equals等方法。
 
 **Swagger：** 可以自动的帮助开发人员生成接口文档，并对接口进行测试。
 
